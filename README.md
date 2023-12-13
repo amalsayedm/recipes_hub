@@ -1,16 +1,10 @@
 # recipes_hub
 
-A new Flutter project.
+A new Flutter project developed by amalsayed https://www.linkedin.com/in/amal-sayed/
+It displays alist of recipes depends on user prefrences
+Users can share recipes and save their favourite ones
+The backend was developed using python
+link to the backend code
+https://github.com/amalsayedm/Recipes_hub_backend
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
